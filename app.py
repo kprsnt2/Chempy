@@ -1,6 +1,8 @@
 import streamlit as st
 from chempy import Substance
 
+# Set the page configuration as the first Streamlit command
+st.set_page_config(page_title="Chemical Formula Info Lookup")
 
 # Streamlit app title
 st.title("Chemical Formula Info Lookup")
