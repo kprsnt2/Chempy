@@ -34,7 +34,3 @@ if formula_input:
 
     # Add a "Reset" button to clear the input field
     st.button("Reset")
-
-# This line allows the Streamlit app to run in the browser
-if __name__ == "__main__":
-    pass  # You can remove this line
