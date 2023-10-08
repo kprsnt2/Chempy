@@ -37,4 +37,4 @@ if formula_input:
 
 # This line allows the Streamlit app to run in the browser
 if __name__ == "__main__":
-    st.set_page_config(page_title="Chemical Formula Info Lookup")
+    pass  # You can remove this line
